@@ -13,3 +13,10 @@ Testing (By Postman)
 6. Send. (The programme should be running in server)
 7. If it successfully processed, then the response will be 'Received'.
    (The response will be displayed under the input text field)
+
+Testing (By Client Program)
+---------------------------
+1. Run the service in server
+2. Run client code.
+   You can find client code in the following link
+   https://github.com/ksivaprasad/REST-Client
